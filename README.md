@@ -5,7 +5,7 @@ This is the repository for the code for Java Spring OAuth2.
 
 • Java Version 10.0.2
 
-• Spring version 4.1.5
+• Spring Version 4.1.5
 
 • Hibernate Version 4.3.8
 
